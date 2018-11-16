@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "parcel-bundler": "^1.10.3"
+  },
+  "name": "select2_customziation",
+  "version": "1.0.0",
+  "description": "Spike to see how hard it is to customize select2",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel serve index.html"
+  },
+  "author": "Sean Miller",
+  "license": "ISC"
+}
